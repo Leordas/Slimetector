@@ -1,0 +1,7 @@
+{
+    "parent" : "item/generated",
+    "textures" : {
+        "layer0" : "slimetector:items/slimetector_0",
+        "layer1" : "slimetector:items/slimetector_1"
+    }
+}
